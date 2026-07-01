@@ -12,7 +12,7 @@ const DEF_ACTIVITIES = "Memories · Lunch · Music";
 document.getElementById('home').innerHTML = `
   <div class="hero">
     <div class="kicker">GRAND RE-UNION · GRT</div>
-    <h1>Batch <span>2006–2007</span></h1>
+    <h1>Batch <span>✦ 𝟐𝟎𝟎𝟔–𝟐𝟎𝟎𝟕 ✦</span></h1>
     <div class="sub">Vivekananda Municipal High School</div>
     <div class="meta">
       <div class="chip" id="evDateChip">📅 —</div>
