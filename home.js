@@ -44,18 +44,18 @@ document.getElementById('home').innerHTML = `
 
   <div class="card">
     <h3>🎓 About this Reunion</h3>
-    <p class="muted" id="aboutText" style="margin:0;line-height:1.6;font-size:14px">—</p>
+    <p class="muted" id="aboutText" style="margin:0;line-height:1.6;font-size:16px">—</p>
   </div>
 
   <div class="row">
     <div class="card grow" style="margin-bottom:0">
       <h3>📍 Venue</h3>
-      <p class="muted" id="venueText" style="margin:0;font-size:14px;line-height:1.6">—</p>
+      <p class="muted" id="venueText" style="margin:0;font-size:16px;line-height:1.6">—</p>
       <a class="btn sm ghost" id="venueMap" style="margin-top:12px;display:inline-flex" target="_blank" href="#">Open in Maps ↗</a>
     </div>
     <div class="card grow" style="margin-bottom:0">
       <h3>🕘 Schedule</h3>
-      <p class="muted" style="margin:0;font-size:14px;line-height:1.6">
+      <p class="muted" style="margin:0;font-size:16px;line-height:1.6">
         <b style="color:var(--txt)" id="schedLine1">—</b><br>
         <span id="schedLine2">—</span><br>
         <span id="schedActivities">—</span>
