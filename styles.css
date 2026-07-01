@@ -358,3 +358,7 @@ select{appearance:none;background-image:linear-gradient(45deg,transparent 50%,va
 a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible, textarea:focus-visible{
   outline:2px solid var(--gold2); outline-offset:2px;
 }
+.card h3, .sec-title h2, .modal h3, #cmtHdr, .ev .ti{ 
+  z-index:0; 
+  color:var(--gold2); 
+}
